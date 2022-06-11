@@ -11,5 +11,5 @@
 :::
 
 ::: details
-这是一个 details 标签
+这是一个 details 标签 a'a
 :::
