@@ -11,5 +11,5 @@
 :::
 
 ::: details
-这是一个 details 标签 abb
+这是一个 details 标签 abbd
 :::
